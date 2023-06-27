@@ -1,0 +1,12 @@
+pz_env/
+__pycache__
+*.sqlite3
+.env
+.env/
+.venv/
+env/
+venv/
+*.env
+*.pyc
+staticfiles/
+
